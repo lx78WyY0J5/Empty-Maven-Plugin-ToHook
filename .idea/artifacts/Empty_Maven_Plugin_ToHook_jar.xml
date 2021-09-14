@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Empty-Maven-Plugin-ToHook:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empty_Maven_Plugin_ToHook_jar</output-path>
+    <root id="archive" name="Empty-Maven-Plugin-ToHook.jar">
+      <element id="module-output" name="Empty-Maven-Plugin-ToHook" />
+    </root>
+  </artifact>
+</component>
